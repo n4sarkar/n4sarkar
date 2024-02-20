@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nidhi Sarkar
-- 👀 I am a first year Chemical Engineering student
-- 🌱 My interests include Renewable energy, Vaccine production, and Bioremediation
+- 👀 I am a third year Chemical Engineering student
 - 💞️ I have experience in JavaScript, Python, and SQL
 - 📫 You can reach me at n4sarkar@uwaterloo.ca or https://www.linkedin.com/in/nidhi-sarkar/
 
